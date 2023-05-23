@@ -6,3 +6,8 @@ Usage: ./udppps.go -ip <ip> -port <port> -pps <pps> -duration <duration> [-threa
 I made this for roblox servers but also works for r6 unranked and homes didn´t tested in other targets.
 
 If you get permission denied error, just do this: chmod +x udppps
+
+For help check out my telegram channel: t.me/sheepbasement
+
+
+Made with love by @lilsheepyy
